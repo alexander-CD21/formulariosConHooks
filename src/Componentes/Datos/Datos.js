@@ -10,7 +10,7 @@ function Datos( props ){
             <h2> FirstName: {props.nombre}</h2>
             <h2> LastName: {props.apellido}</h2>
             <h2> Email: {props.email}</h2>
-            <h2 type="password"> Password: {props.password}</h2>
+            <h2 > Password: {props.password}</h2>
             <h2> ComfirmPassword: {props.comfirmPassword}</h2>
 
         </div>
